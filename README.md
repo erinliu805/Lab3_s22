@@ -1,1 +1,6 @@
-# Lab3_s22
+Hello! Welcome to lab 3! 
+
+Name:
+
+Id:
+
